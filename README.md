@@ -1,0 +1,1 @@
+A simple Tercen workflow, can be used as template.
