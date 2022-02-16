@@ -3,7 +3,7 @@
   "id": "f8a10d0f634bec18e16e16305e005529",
   "isDeleted": false,
   "rev": "5-398d257e59651ac6a651250d2ca39414",
-  "description": "A simple workflow.",
+  "description": "A basic Table and Data Step workflow. Press Play to get started.",
   "name": "Simple",
   "createdBy": "alex",
   "acl": {
